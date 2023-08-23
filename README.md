@@ -11,7 +11,7 @@
  
 - 💻 &nbsp; Python  |  C++ | Wolfram Mathematica  
 - 🛢 &nbsp; NumPy | Pandas | SciPy | seaborn
-- 🖼️🧠 &nbsp; | PyTorch | CatBoost | LightGBM | scikit-learn 
+- 🧠 &nbsp; PyTorch | CatBoost | LightGBM | scikit-learn 
 - 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
 - 🖥 &nbsp; Photoshop
 
