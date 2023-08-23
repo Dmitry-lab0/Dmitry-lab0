@@ -18,8 +18,8 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-&nbsp; Telegram: @Dimonts 
+<p align="left">
+&nbsp; 📲 Telegram: @Dimonts 
 </p>
 
 ⭐️ From [Dmitry-lab0
