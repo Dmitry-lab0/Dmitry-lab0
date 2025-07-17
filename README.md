@@ -9,7 +9,7 @@
  
 - 💻 &nbsp; Python  |  C++ 
 - 🛢 &nbsp; NumPy | Pandas | SciPy | seaborn
-- 🧠 &nbsp; VLLM| PyTorch | CatBoost | LightGBM | scikit-learn
+- 🧠 &nbsp; PyTorch | Tensorflow | VLLM | Transformers | 
 - 👁️ &nbsp; OpenCV
 - 🔧 &nbsp; Git | S3
 
